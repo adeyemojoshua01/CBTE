@@ -1,0 +1,1 @@
+/* Project 2 placeholder. Planned: window.firebaseAuth and window.firebaseDb; users/{uid}/results/{autoId}. No Firebase SDK is loaded in Project 1. */
